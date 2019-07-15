@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 #import <CoreLocation/CoreLocation.h>
-#import <GoogleMaps/GoogleMaps/GMSMapView.h>
+#import <GoogleMaps/GoogleMaps.h>
 
 @class MapViewPlugin;
 @class MapAnnotation;
