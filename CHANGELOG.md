@@ -1,3 +1,7 @@
+## [1.0.0] - 9-25-2019
+
+* Add AndroidX Support
+
 ## [0.0.14] - 7-18-2018
 
 * Fixing Android compile issue
